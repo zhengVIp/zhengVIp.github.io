@@ -2,11 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-<<<<<<< HEAD
-    <loc>https://zhengvip.github.io/</loc>
-=======
-    <loc>http://zhengvip.github.io/</loc>
->>>>>>> 79663e16d0fbbb026f6b38d8df50dbc67b67b201
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
     <priority>0</priority>
   </url>
   
